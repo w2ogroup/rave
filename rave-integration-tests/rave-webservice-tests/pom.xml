@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>rave-integration-tests</artifactId>
         <groupId>org.apache.rave.integration-tests</groupId>
-        <version>0.24.0-W2O-SNAPSHOT</version>
+        <version>0.24.0-W2O</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.apache.rave.integration-tests</groupId>
     <artifactId>rave-webservice-tests</artifactId>
-    <version>0.24.0-W2O-SNAPSHOT</version>
+    <version>0.24.0-W2O</version>
     <name>Apache Rave :: rave-webservice-tests</name>
     <description>Integration tests verifying webservice functionality</description>
 
@@ -106,13 +104,13 @@
                                     <includes>
                                         <include>${embeddables}</include>
                                     </includes>
-                                    <excludes/>
+                                    <excludes />
                                     <ignoreFailureInStories>false</ignoreFailureInStories>
                                     <ignoreFailureInView>false</ignoreFailureInView>
                                     <threads>1</threads>
                                     <storyTimeoutInSecs>600</storyTimeoutInSecs>
                                     <metaFilters>
-                                        <metaFilter></metaFilter>
+                                        <metaFilter />
                                     </metaFilters>
                                 </configuration>
                                 <goals>
