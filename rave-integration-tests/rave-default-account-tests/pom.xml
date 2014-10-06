@@ -26,7 +26,7 @@
     <parent>
         <groupId>org.apache.rave.integration-tests</groupId>
         <artifactId>rave-integration-tests</artifactId>
-        <version>0.24.1-W2O-SNAPSHOT</version>
+        <version>0.24.0-W2O-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
@@ -35,7 +35,7 @@
         <dependency>
             <groupId>org.apache.rave.integration-tests</groupId>
             <artifactId>rave-core-tests</artifactId>
-            <version>0.24.1-W2O-SNAPSHOT</version>
+            <version>0.24.0-W2O-SNAPSHOT</version>
         </dependency>
     </dependencies>
 

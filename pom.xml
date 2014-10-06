@@ -31,7 +31,7 @@
     <name>Apache Rave :: rave-project</name>
     <description>Apache Rave Project</description>
     <packaging>pom</packaging>
-    <version>0.24.1-W2O-SNAPSHOT</version>
+    <version>0.24.0-W2O-SNAPSHOT</version>
 
     <!--TODO: Update with new Git info -->
     <scm>
@@ -132,64 +132,64 @@
             <dependency>
                 <groupId>org.apache.rave</groupId>
                 <artifactId>rave-commons</artifactId>
-                <version>0.24.1-W2O-SNAPSHOT</version>
+                <version>0.24.0-W2O-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.rave</groupId>
                 <artifactId>rave-core</artifactId>
-                <version>0.24.1-W2O-SNAPSHOT</version>
+                <version>0.24.0-W2O-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.rave</groupId>
                 <artifactId>rave-core-api</artifactId>
-                <version>0.24.1-W2O-SNAPSHOT</version>
+                <version>0.24.0-W2O-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.rave</groupId>
                 <artifactId>rave-jpa</artifactId>
-                <version>0.24.1-W2O-SNAPSHOT</version>
+                <version>0.24.0-W2O-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.rave</groupId>
                 <artifactId>rave-mongodb</artifactId>
-                <version>0.24.1-W2O-SNAPSHOT</version>
+                <version>0.24.0-W2O-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.rave</groupId>
                 <artifactId>rave-web</artifactId>
-                <version>0.24.1-W2O-SNAPSHOT</version>
+                <version>0.24.0-W2O-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.rave</groupId>
                 <artifactId>rave-opensocial-client</artifactId>
-                <version>0.24.1-W2O-SNAPSHOT</version>
+                <version>0.24.0-W2O-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.rave</groupId>
                 <artifactId>rave-opensocial-core</artifactId>
-                <version>0.24.1-W2O-SNAPSHOT</version>
+                <version>0.24.0-W2O-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.rave</groupId>
                 <artifactId>rave-w3c-provider</artifactId>
-                <version>0.24.1-W2O-SNAPSHOT</version>
+                <version>0.24.0-W2O-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.rave</groupId>
                 <artifactId>rave-portal-resources</artifactId>
-                <version>0.24.1-W2O-SNAPSHOT</version>
+                <version>0.24.0-W2O-SNAPSHOT</version>
                 <type>war</type>
             </dependency>
             <dependency>
                 <groupId>org.apache.rave</groupId>
                 <artifactId>rave-portal-dependencies</artifactId>
-                <version>0.24.1-W2O-SNAPSHOT</version>
+                <version>0.24.0-W2O-SNAPSHOT</version>
                 <type>pom</type>
             </dependency>
             <dependency>
                 <groupId>org.apache.rave</groupId>
                 <artifactId>rave-demo-gadgets</artifactId>
-                <version>0.24.1-W2O-SNAPSHOT</version>
+                <version>0.24.0-W2O-SNAPSHOT</version>
                 <type>war</type>
             </dependency>
             <dependency>
@@ -488,25 +488,25 @@
             <dependency>
                 <groupId>org.apache.rave</groupId>
                 <artifactId>rave-shindig</artifactId>
-                <version>0.24.1-W2O-SNAPSHOT</version>
+                <version>0.24.0-W2O-SNAPSHOT</version>
                 <type>war</type>
             </dependency>
             <dependency>
                 <groupId>org.apache.rave</groupId>
                 <artifactId>rave-shindig-dependencies</artifactId>
-                <version>0.24.1-W2O-SNAPSHOT</version>
+                <version>0.24.0-W2O-SNAPSHOT</version>
                 <type>pom</type>
             </dependency>
             <dependency>
                 <groupId>org.apache.rave</groupId>
                 <artifactId>rave-shindig-resources</artifactId>
-                <version>0.24.1-W2O-SNAPSHOT</version>
+                <version>0.24.0-W2O-SNAPSHOT</version>
                 <type>war</type>
             </dependency>
             <dependency>
                 <groupId>org.apache.rave</groupId>
                 <artifactId>rave-portal</artifactId>
-                <version>0.24.1-W2O-SNAPSHOT</version>
+                <version>0.24.0-W2O-SNAPSHOT</version>
                 <type>war</type>
             </dependency>
             <dependency>

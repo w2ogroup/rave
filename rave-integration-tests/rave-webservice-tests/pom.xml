@@ -3,14 +3,14 @@
     <parent>
         <artifactId>rave-integration-tests</artifactId>
         <groupId>org.apache.rave.integration-tests</groupId>
-        <version>0.24.1-W2O-SNAPSHOT</version>
+        <version>0.24.0-W2O-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.apache.rave.integration-tests</groupId>
     <artifactId>rave-webservice-tests</artifactId>
-    <version>0.24.1-W2O-SNAPSHOT</version>
+    <version>0.24.0-W2O-SNAPSHOT</version>
     <name>Apache Rave :: rave-webservice-tests</name>
     <description>Integration tests verifying webservice functionality</description>
 
