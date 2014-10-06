@@ -25,7 +25,7 @@
     <parent>
         <artifactId>rave-opensocial-provider</artifactId>
         <groupId>org.apache.rave</groupId>
-        <version>0.24.0-W2O-SNAPSHOT</version>
+        <version>0.24.1-W2O-SNAPSHOT</version>
     </parent>
 
     <artifactId>rave-opensocial-core</artifactId>
