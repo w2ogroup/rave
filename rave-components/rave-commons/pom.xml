@@ -23,7 +23,7 @@
     <parent>
         <artifactId>rave-components</artifactId>
         <groupId>org.apache.rave</groupId>
-        <version>0.24.1-W2O-SNAPSHOT</version>
+        <version>0.24.2-W2O-SNAPSHOT</version>
     </parent>
 
     <artifactId>rave-commons</artifactId>
