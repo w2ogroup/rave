@@ -77,12 +77,12 @@ public class MongoDbUser extends UserImpl {
 
     @Override
     public void setAuthorities(Collection<Authority> authorities) {
+        ensureAuthorityCodes();
+        authorityCodes.clear();
         if (authorities != null) {
             for (GrantedAuthority authority : authorities) {
                 addAuthorityCode(authority);
             }
-        } else {
-            authorityCodes.clear();
         }
     }
 
