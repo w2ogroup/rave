@@ -57,7 +57,7 @@
         <commons-lang.version>2.6</commons-lang.version>
         <commons-lang3.version>3.1</commons-lang3.version>
         <commons-validator.version>1.4.0</commons-validator.version>
-        <commons-collections.version>3.2.1</commons-collections.version>
+        <commons-collections.version>3.2.2</commons-collections.version>
         <commons-codec.version>1.8</commons-codec.version>
         <icu4j.version>51.2</icu4j.version>
         <easymock.version>3.2</easymock.version>
